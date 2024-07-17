@@ -23,7 +23,7 @@ struct ContentView: View {
                     .padding(50.0)
                     .frame(width: 350.0, alignment: .center)
                 Spacer()
-                Text("I Am Rich")
+                Text("I Am Rich ")
                     .font(.system(size: 70))
                     .fontWeight(.light)
                     .foregroundColor(.red)
